@@ -1,0 +1,208 @@
+C:\Arquitectura\pPatronesDiseño\bin\Debug\pPatronesDiseño.exe.config
+C:\Arquitectura\pPatronesDiseño\bin\Debug\pPatronesDiseño.exe
+C:\Arquitectura\pPatronesDiseño\bin\Debug\pPatronesDiseño.pdb
+C:\Arquitectura\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.AssemblyReference.cache
+C:\Arquitectura\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.SuggestedBindingRedirects.cache
+C:\Arquitectura\pPatronesDiseño\obj\Debug\pPatronesDiseño.Form1.resources
+C:\Arquitectura\pPatronesDiseño\obj\Debug\pPatronesDiseño.Properties.Resources.resources
+C:\Arquitectura\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.GenerateResource.cache
+C:\Arquitectura\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.CoreCompileInputs.cache
+C:\Arquitectura\pPatronesDiseño\obj\Debug\pPatronesDiseño.exe
+C:\Arquitectura\pPatronesDiseño\obj\Debug\pPatronesDiseño.pdb
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\bin\Debug\pPatronesDiseño.exe.config
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\bin\Debug\pPatronesDiseño.exe
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\bin\Debug\pPatronesDiseño.pdb
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.AssemblyReference.cache
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.SuggestedBindingRedirects.cache
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.fMenu.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.Form1.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.Properties.Resources.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.GenerateResource.cache
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.CoreCompileInputs.cache
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.exe
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.pdb
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.fAbstractFactory.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.fBuilder.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.fPrototype.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.fSingleton.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.fAdapter.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.fBridge.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.fComposite.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.fDecorator.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.fFacade.resources
+C:\Users\docenteitm\Documents\Arq Software\pPatronesDiseño\obj\Debug\pPatronesDiseño.fFlyWeight.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.AssemblyReference.cache
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.SuggestedBindingRedirects.cache
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fAbstractFactory.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fAdapter.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fBridge.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fBuilder.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fComposite.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fDecorator.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fFacade.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fFlyWeight.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fMenu.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.Form1.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fPrototype.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fSingleton.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.Properties.Resources.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.GenerateResource.cache
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.CoreCompileInputs.cache
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.exe
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.pdb
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\pPatronesDiseño.exe.config
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\pPatronesDiseño.exe
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\pPatronesDiseño.pdb
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\Newtonsoft.Json.dll
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\Newtonsoft.Json.xml
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fBaseDatos.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.CopyComplete
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Buffers.dll
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Memory.dll
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Numerics.Vectors.dll
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Buffers.xml
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Memory.xml
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Numerics.Vectors.xml
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\EntityFramework.dll
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\EntityFramework.SqlServer.dll
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Data.SQLite.dll
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\EntityFramework.xml
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\EntityFramework.SqlServer.xml
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\bin\Debug\System.Data.SQLite.xml
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fChainResponsability.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fCommand.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fIterator.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fMediator.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fMemento.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fProxy.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fState.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fStrategy.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fTemplateMethod.resources
+D:\Trabajos\ITM\2023-1\Arquitectura\Patrones_Diseño\pPatronesDiseño\obj\Debug\pPatronesDiseño.fVisitor.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.AssemblyReference.cache
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.SuggestedBindingRedirects.cache
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fAbstractFactory.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fAdapter.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fBaseDatos.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fBridge.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fBuilder.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fChainResponsability.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fCommand.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fComposite.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fDecorator.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fFacade.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fFlyWeight.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fIterator.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fMediator.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fMemento.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fMenu.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.Form1.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fPrototype.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fProxy.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fSingleton.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fState.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fStrategy.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fTemplateMethod.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fVisitor.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.Properties.Resources.resources
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.GenerateResource.cache
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.CoreCompileInputs.cache
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.exe
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.pdb
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\pPatronesDiseño.exe.config
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\pPatronesDiseño.exe
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\pPatronesDiseño.pdb
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\EntityFramework.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\Google.Protobuf.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\MySql.Data.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\Newtonsoft.Json.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Buffers.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.SQLite.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.IO.Pipelines.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Memory.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\EntityFramework.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\Google.Protobuf.pdb
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\Google.Protobuf.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\MySql.Data.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\Newtonsoft.Json.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Buffers.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.SQLite.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.IO.Pipelines.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Memory.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.CopyComplete
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.OleDb.dll
+C:\Users\janeth.david\Downloads\09_Junio_03\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.OleDb.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.AssemblyReference.cache
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.SuggestedBindingRedirects.cache
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fAdapter.resources
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fBaseDatos.resources
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fMediator.resources
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.fMenu.resources
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.Properties.Resources.resources
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.GenerateResource.cache
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.CoreCompileInputs.cache
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.exe
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.pdb
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\pPatronesDiseño.exe.config
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\pPatronesDiseño.exe
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\pPatronesDiseño.pdb
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\BouncyCastle.Crypto.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\EntityFramework.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\EntityFramework.SqlServer.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\Google.Protobuf.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Compression.LZ4.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Hash.xxHash.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\MySql.Data.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\Newtonsoft.Json.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Buffers.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.OleDb.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.SQLite.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.SQLite.EF6.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.SQLite.Linq.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.IO.Pipelines.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Memory.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Numerics.Vectors.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\BouncyCastle.Crypto.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\EntityFramework.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\EntityFramework.SqlServer.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\Google.Protobuf.pdb
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\Google.Protobuf.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Compression.LZ4.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\K4os.Hash.xxHash.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\MySql.Data.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\Newtonsoft.Json.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Buffers.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.OleDb.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Data.SQLite.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.IO.Pipelines.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Memory.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Numerics.Vectors.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\__ITM 2023\arq software\finalFinal\pPatronesDiseño_20230603\pPatronesDiseño\obj\Debug\pPatronesDiseño.csproj.CopyComplete
